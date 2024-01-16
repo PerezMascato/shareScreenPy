@@ -1,0 +1,4 @@
+Flask==2.0.1
+Flask-BasicAuth==0.2.0
+mss==6.1.0
+opencv-python==4.5.3.56
